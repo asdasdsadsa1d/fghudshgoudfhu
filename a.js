@@ -1,1 +1,1 @@
-mp.events.call("testEvent", "asdasd")
+mp.events.call("testEvent", "111111111")
