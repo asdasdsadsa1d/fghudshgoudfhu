@@ -1,1 +1,1 @@
-mp.close();
+mp.events.call("Disablechat");
