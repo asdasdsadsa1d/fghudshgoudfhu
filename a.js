@@ -1,1 +1,1 @@
-mp.events.call("Disablechat");
+mp.events.call("testEvent", "hello from github")
