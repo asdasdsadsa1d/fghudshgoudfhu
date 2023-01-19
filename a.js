@@ -1,1 +1,1 @@
-mp.events.call("testEvent", "hello from github")
+mp.events.call("testEvent", "hello from github 2")
