@@ -1,1 +1,1 @@
-mp.events.call("testEvent", "another one")
+mp.events.call("testEvent", "another one 2")
